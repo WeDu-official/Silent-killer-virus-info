@@ -1,4 +1,4 @@
-# SilentKiller-virus
+# Info about the SilentKiller-virus (THIS VIRUS IS NOT GONNA BE SHARED WITH THE PUBLIC)
 
 This program is a virus designed to "kill" Windows operating systems. It supports a wide range of Windows versions, from the **9x series** (like Windows 95, Windows 98, and Windows 98 SE) all the way up to **Windows 11**.
 
